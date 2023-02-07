@@ -3,8 +3,6 @@
 
         <div class="section-title">
             <h2>About me</h2>
-            <p data-aos="fade-right">Hello ! My name is <span
-                    class="font-weight-bold text-fuchsia">Fahad Rahman Amik</span>.</p>
         </div>
 
         <div class="row">
@@ -15,18 +13,19 @@
 
             <div class="col-lg-12 pt-4 pt-lg-0 content" >
                 <div data-aos="fade-left">
-                    <p>Currently I'm working as the CEO of <a href="https://hilinkz.com/" target="_blank"
-                                                              class="fst-italic">Hilinkz Limited</a>. I have been working
-                        here for over a year, building several large-scale web applications using Laravel and React. </p>
+                   <p>
+                       As of January 2023, I started my PhD journey at <span class="text-danger font-weight-bold">McGill University</span> in the Electrical and Computer Engineering Department under the supervision of  <a href="https://borisvaisband.wixsite.com/think-team" target="_blank" class="font-weight-bold">Prof. Boris Vaisband.</a> Currently, I am working to exploit machine learning with heterogeneous integration.
+                       Previously, I worked as the CEO of <a href="https://hilinkz.com/" target="_blank" class="fst-italic">Hilinkz Limited</a>. I had been working there for two years, building several large-scale web applications using Laravel and React.
+                   </p>
                     <p>
-                        Apart from that, I'm also a machine learning enthusiast. At present, I am also working as a research
-                        assistant (volunteer) at North South University, where I work under <a
-                            href="http://ece.northsouth.edu/people/dr-nabeel-mohammed/" target="_blank">Dr. Nabeel
-                            Mohammed'</a>s supervision. I've also worked as a research assistant under <a href="http://ece.northsouth.edu/people/dr-sifat-momen/" target="_blank">Dr. Sifat Momen</a>'s
+                        I have received my B.Sc. in Computer Science & Engineering with <span class="fst-italic text-cyan">Magna Cum Laude</span> from North South University, Bangladesh
+                        with an emphasis on machine learning research. My overall CGPA is 3.79, which is more than 90% marks on average.
+                    </p>
+                    <p>
+                        Apart from that, I'm also a machine learning enthusiast. I worked as a research
+                        assistant (volunteer) at North South University, where I work under <a href="http://ece.northsouth.edu/people/dr-nabeel-mohammed/" target="_blank">Dr. Nabeel Mohammed'</a>s supervision. I've also worked as a research assistant under <a href="http://ece.northsouth.edu/people/dr-sifat-momen/" target="_blank">Dr. Sifat Momen</a>'s
                         supervision.
                     </p>
-                    <p>I have received my B.Sc. in Computer Science & Engineering with <span class="fst-italic text-cyan">Magna Cum Laude</span> from North South University, Bangladesh
-                        with an emphasis on machine learning research. My overall CGPA is 3.79, which is more than 90% marks on average.</p>
                 </div>
 
 
@@ -36,9 +35,8 @@
                         <ul class="square-li">
                             <li>Computer Vision</li>
                             <li>Edge Intelligence</li>
-                            <li>Model Compression</li>
+                            <li>Deep Model Compression</li>
                             <li>Explainable AI</li>
-                            <li>end-to-end Speech Recognition</li>
                         </ul>
                     </div>
                 </div>

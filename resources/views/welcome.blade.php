@@ -57,9 +57,9 @@
             <ul>
                 <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
                 <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
-                <li><a href="#experience" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Experience</span></a></li>
-                <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
-                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+{{--                <li><a href="#experience" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Experience</span></a></li>--}}
+{{--                <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>--}}
+{{--                <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>--}}
                 <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
             </ul>
         </nav><!-- .nav-menu -->
@@ -72,7 +72,13 @@
         <h1>Fahad Rahman Amik</h1>
         <p>I'm <span class="typed" data-typed-items="a Machine Learning Enthusiast, a Web Developer, a Researcher, an Educator"></span></p>
         <p>
-            <a class="btn btn-lg bg-white rounded-pill"  href="{{asset('storage/all_files/CV-Fahad_Rahman_Amik.pdf')}}" download>Download CV</a></p>
+            <a class="btn btn-lg bg-white rounded-pill"  href="{{asset('storage/all_files/CV-Fahad_Rahman_Amik.pdf')}}" download>Download CV</a>
+
+        </p>
+        <h6 class="text-white-50">
+            last updated on: Jan 20, 2023
+        </h6>
+
     </div>
 </section><!-- End Hero -->
 
@@ -83,30 +89,30 @@
     <!-- End About Section -->
 
     <!-- ======= Resume Section ======= -->
-@include('my_portfolio.resume')
+    {{--@include('my_portfolio.resume')--}}
 <!-- End Resume Section -->
 
 
     <!-- ======= Facts Section ======= -->
-    @include('my_portfolio.facts')
+    {{--@include('my_portfolio.facts')--}}
     <!-- End Facts Section -->
 
     <!-- ======= Skills Section ======= -->
-    @include('my_portfolio.skills')
+    {{--@include('my_portfolio.skills')--}}
     <!-- End Skills Section -->
 
 
 
     <!-- ======= Portfolio Section ======= -->
-    @include('my_portfolio.portfolio')
+    {{--@include('my_portfolio.portfolio')--}}
     <!-- End Portfolio Section -->
 
     <!-- ======= Services Section ======= -->
-    @include('my_portfolio.services')
+    {{--@include('my_portfolio.services')--}}
     <!-- End Services Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    @include('my_portfolio.testimonials')
+    {{--@include('my_portfolio.testimonials')--}}
     <!-- End Testimonials Section -->
 
     <!-- ======= Contact Section ======= -->
