@@ -23,7 +23,7 @@
                     </p>
                     <p>
                         Apart from that, I'm also a machine learning enthusiast. I worked as a research
-                        assistant (volunteer) at North South University, where I work under <a href="http://ece.northsouth.edu/people/dr-nabeel-mohammed/" target="_blank">Dr. Nabeel Mohammed'</a>s supervision. I've also worked as a research assistant under <a href="http://ece.northsouth.edu/people/dr-sifat-momen/" target="_blank">Dr. Sifat Momen</a>'s
+                        assistant (volunteer) at North South University, under <a href="http://ece.northsouth.edu/people/dr-nabeel-mohammed/" target="_blank">Dr. Nabeel Mohammed'</a>s supervision. I've also worked as a research assistant under <a href="http://ece.northsouth.edu/people/dr-sifat-momen/" target="_blank">Dr. Sifat Momen</a>'s
                         supervision.
                     </p>
                 </div>
